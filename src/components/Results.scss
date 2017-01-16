@@ -1,0 +1,16 @@
+span.datetime {
+}
+
+span.airport {
+  font-weight: bold;
+}
+
+#flights div.row {
+  display: flex;
+  align-items: center;
+  height: 3em;
+}
+
+#flights div.row:nth-child(even) {
+  background: #CCC;
+}
